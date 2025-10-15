@@ -803,7 +803,7 @@ function CartDrawerContent({ items, onEdit, onDelete }) {
                 }
                 className="w-1/2 py-2 bg-black text-white rounded-md hover:bg-gray-800 transition"
               >
-                Checkout
+                Shipping 
               </button>
             </div>
           </div>
