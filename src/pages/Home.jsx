@@ -510,10 +510,11 @@ import bann from "../assets/bann.jpg";
 import img1 from "../assets/b22.jpg";
 import img2 from "../assets/ban.jpg";
 import img3 from "../assets/bann.jpg";
-import Home1 from ".Pages/home1";
+
 import Footer from "../components/Footer";
 
 import { FaArrowUp } from "react-icons/fa"; // 🔹 arrow icon
+import Home1 from "./Home1";
 
 function Home() {
   const [showScroll, setShowScroll] = useState(false);
